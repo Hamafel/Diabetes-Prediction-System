@@ -5,7 +5,7 @@ This repository contains a diabetes prediction system designed to help identify 
 
 ## Project Structure
 - `data/` - Contains the dataset used for training and testing the models.
-- `notebooks/` - Jupyter notebooks for data exploration, preprocessing, and model training.
+- `Notebooks/` - Jupyter notebooks for data exploration, preprocessing, and model training.
 - `README.md` - Project documentation.
 
 ## Models Used
